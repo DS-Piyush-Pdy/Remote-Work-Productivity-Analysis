@@ -1,0 +1,35 @@
+# 📌 Insight Summary: Remote Work & Productivity
+
+This project explored how remote work arrangements, working hours, and well-being scores affect employee productivity. The insights derived from the data analysis are summarized below:
+
+---
+
+## 🔹 Productivity Insights
+- 🟢 Employees working **21–45 hours/week** have the **highest average productivity**.
+- 🔴 Productivity **declines significantly** for employees working **more than 60 hours/week**, suggesting **diminishing returns** or burnout.
+- 🔵 Employees working **less than 20 hours/week** generally have **lower productivity**, potentially due to part-time status or lower engagement.
+
+---
+
+## 🔹 Remote vs In-Office
+- 🏠 **Remote workers** have a **slightly higher and more consistent productivity** score compared to in-office employees.
+- 🏢 In-office employees show **more variation** — some are very productive, while others perform poorly.
+
+---
+
+## 🔹 Well-Being Trends
+- 💆‍♂️ Remote workers report **higher well-being scores**, possibly due to better work-life balance, no commuting stress, and more autonomy.
+- 📉 In-office employees show **lower average well-being**, with some outliers experiencing high stress or low morale.
+
+---
+
+## 🔹 Combined Takeaways
+- **Remote work** has a **positive correlation** with both productivity and well-being.
+- **Balanced work hours (~40/week)** yield the best results.
+- Encouraging excessive work hours **hurts productivity and well-being**.
+
+---
+
+## ✅ Final Conclusion
+> Organizations should consider adopting **flexible or hybrid work policies**.  
+> Encourage healthy work hours to prevent burnout and promote both performance and employee happiness.
